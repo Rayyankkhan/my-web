@@ -1,0 +1,57 @@
+nav {
+    background-color: cornflowerblue;
+    display: flex;
+    height: 100PX;  
+}
+ul {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+    margin-left: 43em;
+}
+li {
+    list-style: none;
+    margin: 0.5em 0.7em;
+    padding:.2em.4em;
+    border-radius:.3em;
+    background-color:#f9f9f9;
+    text-decoration:none;
+    
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.signup {
+    float: right;
+    margin-left: 40em ;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    align-items: center;
+    text-align: center;
+}
+.icon {
+    font-size:  x-large;
+    cursor: pointer;
+    margin: -0.029em;
+    transition: all ease-in-out 0.3s;
+    position: absolute;
+    left: 1260px;
+    top: 9%;
+
+}
+.signin {
+    margin-left: 60px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    letter-spacing: 0.1rem;
+    word-spacing: 0.2rem;
+    line-height: normal;
+    font-size: medium;
+}
+.signin > li {
+    width: 100%;
+}

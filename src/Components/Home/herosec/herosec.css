@@ -1,0 +1,47 @@
+.ban {
+    width: 100%;
+    height: fit-content;
+    /* opacity: 0.7; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index:-98!important;
+    filter: blur(2px);
+}
+.Head1 {
+    position:absolute;
+    font-weight: 1000px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    top: 300px;
+    left: 100px;
+    text-shadow: 1px 1px 10px black;
+    color: white;
+}
+.Head2 {
+    position:absolute;
+    font-weight: 1000px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    top: 370px;
+    left: 120px;
+    text-shadow: 1px 1px 10px black;
+    color: white;
+    word-spacing: 10px;
+    letter-spacing: 10px;
+}
+.btn-1 {
+    position:absolute;
+    font-weight: 1000px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    top: 480px;
+    left: 140px;
+    /* text-shadow: 1px px 5px black; */
+    color: cornflowerblue;
+    background-color: white;
+    border-radius: 20px;
+    }
